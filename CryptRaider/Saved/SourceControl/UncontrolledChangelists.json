@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/UNREAL_ENGINE/UE_CryptRaider/CryptRaider/Content/Maps/Dungeon.umap",
+				"D:/GitHub/UNREAL_ENGINE/UE_CryptRaider/CryptRaider/Content/Maps/Dungeon2.umap",
+				"D:/GitHub/UNREAL_ENGINE/UE_CryptRaider/CryptRaider/Content/Dungeon.umap",
+				"D:/GitHub/UNREAL_ENGINE/UE_CryptRaider/CryptRaider/Content/Maps/Dungeon73.umap",
+				"D:/GitHub/UNREAL_ENGINE/UE_CryptRaider/CryptRaider/Content/Dungeon76.umap",
+				"D:/GitHub/UNREAL_ENGINE/UE_CryptRaider/CryptRaider/Content/Maps/Dungeon76.umap",
+				"D:/GitHub/UNREAL_ENGINE/UE_CryptRaider/CryptRaider/Content/MedievalDungeon/Blueprints/BP_Torch.uasset"
+			]
+		}
+	]
+}
